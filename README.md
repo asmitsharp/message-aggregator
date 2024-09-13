@@ -37,10 +37,12 @@ The **Message Aggregator** project aims to consolidate messages from different p
 ```bash
 git clone https://github.com/asmitsharp/message-aggregator.git
 cd message-aggregator
+```
 
 ### 2. Build and run the containers:
 ```bash
 docker-compose up --build
+```
 
 ## Matrix Integration
 
